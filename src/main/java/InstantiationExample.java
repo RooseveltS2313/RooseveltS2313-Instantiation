@@ -20,5 +20,6 @@ public class InstantiationExample {
     public Object instantiateANewObject(){
         Animal animal1 = new Animal();
         return animal1;
+        //
     }
 }
